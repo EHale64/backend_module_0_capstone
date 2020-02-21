@@ -19,7 +19,7 @@
 
 1. In the space below, create a Dog class with at least 2 attributes and 2 behaviors
 
-  `class GoodDog
+  ```class GoodDog
       attr_accessor :name :breed
 
       def initialize(name, breed)
@@ -36,7 +36,7 @@
 
         "Aren't they cute?"
       end
-  end`
+  end```
 
 1. How do you create an instance of a class?
 
